@@ -3,3 +3,6 @@ B2. Thuc thi => tao 1 file text.txt trong souce code
 B3. Tao moi thanh cong va update noi dung cua cua file
 B4. Hoan thanh task
 B5. Sau khi hoan thanh 1 task => Dong goi cac folder/file trong task
+
+
+update content
